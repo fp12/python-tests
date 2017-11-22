@@ -1,6 +1,8 @@
 Python things I want to test:
 
 * pipenv: https://docs.pipenv.org/
+  * very easy: just `pipenv install xxx`
+  * then: `pipenv shell` to 'activate' it
 * streamz: https://streamz.readthedocs.io/en/latest/
 * blinker: http://pythonhosted.org/blinker/
 * attrs: http://www.attrs.org/en/stable/
